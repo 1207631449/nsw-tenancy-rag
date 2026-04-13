@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sample_001",
+    "source": "Residential Tenancies Act 2010 (NSW) - Section 41",
+    "title": "Rent increases",
+    "content": "Section 41 - Rent increases\n\n(1) A landlord or landlord's agent may increase the rent payable under a residential tenancy agreement only if:\n(a) the rent is increased after the end of the fixed term of the agreement, and\n(b) the rent is increased not less than 12 months after the last rent increase, and\n(c) the landlord or landlord's agent gives the tenant at least 60 days' written notice of the increase.\n\nKey points:\n- Rent can only be increased after the fixed term ends\n- Minimum 12 months between rent increases\n- Minimum 60 days written notice required\n- Tenant can challenge excessive increases at NCAT",
+    "metadata": {
+      "section": "41",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2010-042#sec.41"
+    }
+  },
+  {
+    "id": "sample_002",
+    "source": "Residential Tenancies Act 2010 (NSW) - Section 63",
+    "title": "Landlord's general obligation",
+    "content": "Section 63 - Landlord's general obligation\n\n(1) A landlord of residential premises must:\n(a) provide the residential premises in a reasonable state of cleanliness and fit for habitation, and\n(b) provide and maintain the residential premises in a reasonable state of repair.\n\nKey points:\n- Landlord must provide premises in reasonable condition\n- Landlord must maintain premises in reasonable repair\n- Standard depends on age and rent of premises",
+    "metadata": {
+      "section": "63",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2010-042#sec.63"
+    }
+  },
+  {
+    "id": "sample_003",
+    "source": "Fair Trading NSW",
+    "title": "Rental Bonds",
+    "content": "Rental Bonds in NSW\n\nMaximum bond amounts:\n- Unfurnished premises: 4 weeks rent\n- Furnished premises: 6 weeks rent\n\nImportant rules:\n1. Bond must be lodged with NSW Fair Trading within 10 days\n2. Landlord cannot ask for more than the maximum\n3. Bond cannot be increased during the tenancy\n\nAt the end of tenancy:\n- Both parties must agree on bond distribution\n- If no agreement, apply to NCAT for resolution",
+    "metadata": {
+      "source": "Fair Trading NSW",
+      "url": "https://www.fairtrading.nsw.gov.au/housing-and-property/renting"
+    }
+  }
+]
