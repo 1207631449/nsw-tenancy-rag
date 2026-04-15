@@ -78,9 +78,7 @@ nsw-tenancy-rag/
 
 ### LLM 配置
 
-本项目使用 CodingPlan API（讯飞 MaaS 平台）：
-
-1. 访问 https://codingplan.cn 注册账号
+1. 访问大模型厂商注册账号，示例使用讯飞Maas平台coding plan
 2. 获取 API Key
 3. 在 `.env` 中配置：
 
